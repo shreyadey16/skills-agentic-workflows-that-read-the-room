@@ -38,7 +38,7 @@ unchanged.
 
 - Fetch GitHub Blog latest posts: https://github.blog/latest/
 - Fetch GitHub Changelog: https://github.blog/changelog/
-- Fetch workflow examples and guidance: https://awesome-copilot.github.com/workflows/
+- Use web-fetch to fetch workflow examples and guidance: https://awesome-copilot.github.com/workflows/
 
 Update only `site/content/github-info.md` with any meaningful improvements you
 find. Preserve Mona's practical editorial angle and the existing concise
