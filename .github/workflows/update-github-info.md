@@ -33,7 +33,8 @@ Use the GitHub repository API tools to read `notes/mona-notes.md`,
 files you need. Do not use terminal, CLI, or sandboxed commands to read those
 repository files. Use the web-fetch tool to read the external public guidance
 at all three official source pages below before deciding whether an update is
-needed:
+needed. Keep the existing source URLs and network access configuration
+unchanged.
 
 - Fetch GitHub Blog latest posts: https://github.blog/latest/
 - Fetch GitHub Changelog: https://github.blog/changelog/
