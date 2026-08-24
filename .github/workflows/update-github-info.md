@@ -1,6 +1,7 @@
 ---
 name: update-github-info
 description: Keep Mona's GitHub Info site current with practical, officially sourced GitHub guidance.
+model: gpt-4.1
 on:
   workflow_dispatch:
   schedule:
