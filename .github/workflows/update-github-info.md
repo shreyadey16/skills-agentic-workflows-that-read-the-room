@@ -1,6 +1,7 @@
 ---
 name: update-github-info
 description: Keep Mona's GitHub Info site current with practical, officially sourced GitHub guidance.
+model: gpt-4.1
 on:
   workflow_dispatch:
   schedule:
@@ -36,6 +37,7 @@ at all three official source pages below before deciding whether an update is
 needed. Keep the existing source URLs and network access configuration
 unchanged.
 
+Sources:
 - Fetch GitHub Blog latest posts: https://github.blog/latest/
 - Fetch GitHub Changelog: https://github.blog/changelog/
 - Use web-fetch to fetch workflow examples and guidance: https://awesome-copilot.github.com/workflows/
